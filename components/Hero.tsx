@@ -41,8 +41,9 @@ const Hero = () => {
             words="Hi, I'm Yau Kam Fei"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            A fresh full-stack engineer familiar with Java, HTML, CSS, C++, and
-            SQL, equipped with hands-on experience from two internship roles
+            A fresh graduate with a Bachelor of Software Engineering (Hons.) in
+            from APU. I’m currently seeking junior/entry-level roles as a
+            Software Developer,
           </p>
           <a href="#about">
             <MagicButton
